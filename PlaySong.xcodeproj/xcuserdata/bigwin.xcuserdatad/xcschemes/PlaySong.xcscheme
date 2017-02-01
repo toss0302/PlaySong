@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8944069F1E37581100B10416"
-               BuildableName = "FirstSwift.app"
-               BlueprintName = "FirstSwift"
-               ReferencedContainer = "container:FirstSwift.xcodeproj">
+               BuildableName = "PlaySong.app"
+               BlueprintName = "PlaySong"
+               ReferencedContainer = "container:PlaySong.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8944069F1E37581100B10416"
-            BuildableName = "FirstSwift.app"
-            BlueprintName = "FirstSwift"
-            ReferencedContainer = "container:FirstSwift.xcodeproj">
+            BuildableName = "PlaySong.app"
+            BlueprintName = "PlaySong"
+            ReferencedContainer = "container:PlaySong.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8944069F1E37581100B10416"
-            BuildableName = "FirstSwift.app"
-            BlueprintName = "FirstSwift"
-            ReferencedContainer = "container:FirstSwift.xcodeproj">
+            BuildableName = "PlaySong.app"
+            BlueprintName = "PlaySong"
+            ReferencedContainer = "container:PlaySong.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8944069F1E37581100B10416"
-            BuildableName = "FirstSwift.app"
-            BlueprintName = "FirstSwift"
-            ReferencedContainer = "container:FirstSwift.xcodeproj">
+            BuildableName = "PlaySong.app"
+            BlueprintName = "PlaySong"
+            ReferencedContainer = "container:PlaySong.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
